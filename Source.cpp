@@ -4,6 +4,13 @@ using namespace std;
 int tong(int a, int b);
 int hieu(int a, int b);
 int tich(int a, int b);
+{
+cout<<"\nNhap a: "<<endl;
+cin>>a;
+cout<<"\nNhap b: "<<endl;
+cin>>b;
+cout<<"\nTich cua 2 so la: "<< a*b <<endl;
+}
 float thuong(int a, int b);
 int main()
 {
