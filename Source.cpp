@@ -7,6 +7,7 @@ int tich(int a, int b);
 float thuong(int a, int b);
 int main()
 {
+	//dsjkfnasdkl
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	int a,b;
 	cout<<"Nhap so thu nhat: ";
