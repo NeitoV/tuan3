@@ -14,7 +14,10 @@ cout<<"\nTich cua 2 so la: "<< a*b <<endl;
 float thuong(int a, int b);
 int main()
 {
-	//dsjkfnasdkl
+	//dnsfjklfsdhfjkl/hsdl
+	
+	//nguyenvotien
+	
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	int a,b;
 	cout<<"Nhap so thu nhat: ";
